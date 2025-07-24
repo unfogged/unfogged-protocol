@@ -31,18 +31,18 @@ It’s about reclaiming baseline clarity—whatever broke it.
 You don’t have to be sober forever. You don’t even have to drink to need this.
 You just need to want your brain back.
 
-### ✝️ Break humanities true cycle for $60/month for 3 months get to true sobriety
+### ✝️ Break humanities true cycle for \$60/month for 3 months get to true sobriety
 
-Because your kids deserve a whole parent.  
-Because you remember the slammed doors, the yelling, the divorce, the silence, and the pain after.  
-Because healing starts with one stubborn, holy decision.  
+Because your kids deserve a whole parent.
+Because you remember the slammed doors, the yelling, the divorce, the silence, and the pain after.
+Because healing starts with one stubborn, holy decision.
 
-🙏 You deserve repentance.  
-🕊️ You deserve the purity of a child again.  
+🙏 You deserve repentance.
+🕊️ You deserve the purity of a being a child and young soul again before you started binging and stressing in your older age.
 👣 It’s time to come home to your true reality of who you are
 
-> *“But while he was still a long way off, his father saw him and was filled with compassion for him;  
-> he ran to his son, threw his arms around him and kissed him.”*  
+> *“But while he was still a long way off, his father saw him and was filled with compassion for him;
+> he ran to his son, threw his arms around him and kissed him.”*
 > — **Luke 15:20**
 
 ---
@@ -78,20 +78,21 @@ Unfogged™ is an open-source wellness initiative operated by **Cloud Blaze**, w
 
 ---
 
-## 📚 Medical Reference Index
+## 📋 Medical Reference Index
 
 We've collected a curated body of medical literature, expert-backed articles, and clinical guidance that supports the foundation of the Unfogged protocol.
 
 See full breakdown here:
 
 📁 [references/](references/)
-- [cold-turkey-vs-supported.md](references/cold-turkey-vs-supported.md) – Why abrupt cessation can harm the nervous system.
-- [90-day-repair.md](references/90-day-repair.md) – The science behind 90-day supplement recovery.
-- [core-supplements.md](references/core-supplements.md) – Medical evidence on magnesium, B-vitamins, Omega-3, and adaptogens.
-- [nervous-system-nutrition.md](references/nervous-system-nutrition.md) – How nutrients like Ashwagandha, L-Theanine, and CoQ10 help the CNS heal.
-- [gut-brain-axis.md](references/gut-brain-axis.md) – Microbiome research and its role in anxiety and mood.
-- [family-mental-load.md](references/family-mental-load.md) – How parental anxiety and partner stress impacts children and relationships.
-- [nutritionist-guidance.md](references/nutritionist-guidance.md) – How to talk to your PCP, RD, or psychiatrist.
+
+* [cold-turkey-vs-supported.md](references/cold-turkey-vs-supported.md) – Why abrupt cessation can harm the nervous system.
+* [90-day-repair.md](references/90-day-repair.md) – The science behind 90-day supplement recovery.
+* [core-supplements.md](references/core-supplements.md) – Medical evidence on magnesium, B-vitamins, Omega-3, and adaptogens.
+* [nervous-system-nutrition.md](references/nervous-system-nutrition.md) – How nutrients like Ashwagandha, L-Theanine, and CoQ10 help the CNS heal.
+* [gut-brain-axis.md](references/gut-brain-axis.md) – Microbiome research and its role in anxiety and mood.
+* [family-mental-load.md](references/family-mental-load.md) – How parental anxiety and partner stress impacts children and relationships.
+* [nutritionist-guidance.md](references/nutritionist-guidance.md) – How to talk to your PCP, RD, or psychiatrist.
 
 ## 💸 Permission to Repair: 1 Human = \$89 for 90 Days
 
