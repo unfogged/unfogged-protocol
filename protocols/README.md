@@ -1,0 +1,1 @@
+These are the core behavioral and timing blueprints that make the Unfogged™ stack more than just a supplement list. Each one is meant to give structure and intention to your nervous system reset across short-term, long-term, and post-relapse timelines.
