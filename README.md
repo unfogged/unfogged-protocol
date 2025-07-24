@@ -328,3 +328,5 @@ This is a protocol, not medical advice. We offer open information, not treatment
 **Unfogged**
 PO Box 80015
 Rochester, MI 48308
+
+> 📌 **Legal Disclosure**: This project is intended for adults. No content or links (including affiliate links) are targeted at users under 13 years old.
