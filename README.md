@@ -1,5 +1,7 @@
 # 🧠 UNFOGGED: The Open Source Nervous System Stack
 
+![Unfogged Logo](media/unfogged-logo.png)
+
 Welcome to **Unfogged™**, a nonprofit-backed, open-source protocol for people struggling with the lingering fog of stress, anxiety, alcohol dependence, and overdiagnosed mood disorders.
 
 We are not selling a product—we're offering a method. A biological reboot. Designed to work in the real world, with real people, and yes... real gummies.
@@ -134,7 +136,7 @@ Right now, we’re manually matching funds to real people in need via **Cloud Bl
 * Entry into the Unfogged peer community (invite-only)
 
 ➡️ [Become a Sponsor](https://yoururl.com/sponsor-form)
-➡️ [Request a Stack](https://yoururl.com/apply)
+📬 [Request a Stack via Email](mailto:support@unfogged.org?subject=Request%20for%20Unfogged%20Stack&body=Hi%20team%2C%0A%0AI%27d%20like%20to%20request%20support%20for%20the%2090-day%20Unfogged%20protocol.%20Please%20let%20me%20know%20what%20info%20you%20need%20from%20me.%0A%0AThanks%2C)
 
 One human. One stack. One shot at clarity.
 
@@ -164,13 +166,10 @@ unfogged-stack/
   - [mission.md](nonprofit-model/mission.md)
   - [open-license.md](nonprofit-model/open-license.md)
   - [manufacturing-costs.md](nonprofit-model/manufacturing-costs.md)
+- [media/](media/)
+  - [unfogged-logo.png](media/unfogged-logo.png)
+  - [printable-daily-log.md](media/printable-daily-log.md)
 
-
-
-└── media/
-    ├── logo.svg
-    ├── infographic.png
-    └── printable-daily-log.pdf
 
 ---
 
@@ -261,19 +260,7 @@ This is the **human nervous system reset** pharma won’t build—so we did.
 
 Unfogged™ is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-> You are free to:
->
-> * Share — copy and redistribute the material in any medium or format
-> * Adapt — remix, transform, and build upon the material
->
-> Under the following terms:
->
-> * **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-> * **NonCommercial** — You may not use the material for commercial purposes.
-
-Use this protocol to heal, to build, and to share—but never to exploit.
-
-Unfogged™ is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+[LICENSE.md](LICENSE.md)
 
 > You are free to:
 >
