@@ -1,0 +1,1 @@
+This folder lays out the vision, legal stance, and manufacturing transparency behind Unfogged™ as a public benefit protocol. Whether you're a donor, distributor, or just a curious builder—you’ll see how this system stays open, ethical, and sustainable.
