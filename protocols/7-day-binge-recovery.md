@@ -13,3 +13,5 @@
 * Guidelines for hydration, movement, and sleep repair
 * “Shame disruptor” reminders + how to re-enter the main protocol
 * Gut reset tips (activated charcoal, bland diet, low-glutamate days)
+
+> These protocols serve as the nervous system’s scaffolding—designed to help you *rebuild who you are before life rewired you.*
