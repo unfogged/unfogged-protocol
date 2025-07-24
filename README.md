@@ -208,11 +208,20 @@ It’s not a punishment. It’s a landing pad. And it works.
 
 ---
 
-## 📅 Protocols
+## 📅 Daly Protocol Dosage for 90 days (Gummy Count)
 
-* [x] Morning: B-complex, Omega-3, CoQ10
-* [x] Midday: Ashwagandha, Theanine (optional)
-* [x] Evening: Magnesium, Melatonin, L-Theanine
+* [x] **Morning**  
+  - B-Complex + Omega-3: **2 gummies** (Centrum or equivalent)  
+  - CoQ10: **1 gummy**
+
+* [x] **Midday**  
+  - Ashwagandha: **2 gummies** (Goli or equivalent)  
+  - L-Theanine: **1 gummy (optional/as needed)**
+
+* [x] **Evening**  
+  - Magnesium + Melatonin (CALM Sleep): **2 gummies**  
+  - (Optional): **L-Theanine: 1 gummy** (for nighttime anxiety or racing thoughts)
+
 
 See [protocols/90-day-reset.md](protocols/90-day-reset.md) for dosage, scheduling, and alternatives.
 
