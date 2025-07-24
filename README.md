@@ -186,7 +186,7 @@ Right now, we’re manually matching funds to real people in need via **Cloud Bl
 * Printed protocol guide
 * Entry into the Unfogged peer community (invite-only)
 
-➡️ [Become a Sponsor](https://yoururl.com/sponsor-form)
+📬 [Become a sponsor](mailto:support@unfogged.org?subject=Sponsor%20Opportunities)
 📬 [Request a Stack via Email](mailto:support@unfogged.org?subject=Request%20for%20Unfogged%20Stack&body=Hi%20team%2C%0A%0AI%27d%20like%20to%20request%20support%20for%20the%2090-day%20Unfogged%20protocol.%20Please%20let%20me%20know%20what%20info%20you%20need%20from%20me.%0A%0AThanks%2C)
 
 One human. One stack. One shot at clarity.
