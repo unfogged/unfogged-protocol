@@ -31,6 +31,20 @@ It’s about reclaiming baseline clarity—whatever broke it.
 You don’t have to be sober forever. You don’t even have to drink to need this.
 You just need to want your brain back.
 
+### ✝️ Break the Cycle. $90. 90 Days.
+
+Because your kids deserve a whole parent.  
+Because you remember the slammed doors, the yelling, the divorce, the silence, and the pain after.  
+Because healing starts with one stubborn, holy decision.  
+
+🙏 You deserve repentance.  
+🕊️ You deserve the purity of a child again.  
+👣 It’s time to come home to your true reality of who you are
+
+> *“But while he was still a long way off, his father saw him and was filled with compassion for him;  
+> he ran to his son, threw his arms around him and kissed him.”*  
+> — **Luke 15:20**
+
 ---
 
 ## ✍️ Founder Note
@@ -209,15 +223,15 @@ unfogged-stack/
 ---
 
 ## 💊 Key Supplements in the Core Stack
-
 | Supplement                    | Purpose                                                        |
 | ----------------------------- | -------------------------------------------------------------- |
-| **B-Complex + Biotin/Folate** | Neurotransmitter fuel, energy, methylation                     |
-| **CoQ10**                     | Mitochondrial recovery, mood clarity                           |
-| **Omega-3**                   | Brain repair, inflammation modulation                          |
-| **Ashwagandha**               | Cortisol and HPA regulation (critical for 5PM alcohol impulse) |
-| **L-Theanine**                | Glutamate modulation, calm without sedation                    |
-| **Magnesium + Melatonin**     | Sleep quality, GABA support                                    |
+| [**B-Complex + Biotin/Folate**](https://www.amazon.com/dp/B078NFVCJ7?tag=unfogged0f-20) | Neurotransmitter fuel, energy, methylation                     |
+| [**CoQ10**](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)                     | Mitochondrial recovery, mood clarity                           |
+| [**Omega-3**](https://www.amazon.com/dp/B0D83F2TB5?tag=unfogged0f-20)                   | Brain repair, inflammation modulation                          |
+| [**Ashwagandha**](https://www.amazon.com/dp/B0B8QGMLBS?tag=unfogged0f-20)               | Cortisol and HPA regulation (critical for 5PM alcohol impulse) |
+| [**L-Theanine**](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)                | Glutamate modulation, calm without sedation                    |
+| [**Magnesium + Melatonin**](https://www.amazon.com/dp/B085HK5LY2?tag=unfogged0f-20)     | Sleep quality, GABA support                                    |
+
 
 ---
 
