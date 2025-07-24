@@ -64,6 +64,21 @@ Unfogged™ is an open-source wellness initiative operated by **Cloud Blaze**, w
 
 ---
 
+## 📚 Medical Reference Index
+
+We've collected a curated body of medical literature, expert-backed articles, and clinical guidance that supports the foundation of the Unfogged protocol.
+
+See full breakdown here:
+
+📁 [references/](references/)
+- [cold-turkey-vs-supported.md](references/cold-turkey-vs-supported.md) – Why abrupt cessation can harm the nervous system.
+- [90-day-repair.md](references/90-day-repair.md) – The science behind 90-day supplement recovery.
+- [core-supplements.md](references/core-supplements.md) – Medical evidence on magnesium, B-vitamins, Omega-3, and adaptogens.
+- [nervous-system-nutrition.md](references/nervous-system-nutrition.md) – How nutrients like Ashwagandha, L-Theanine, and CoQ10 help the CNS heal.
+- [gut-brain-axis.md](references/gut-brain-axis.md) – Microbiome research and its role in anxiety and mood.
+- [family-mental-load.md](references/family-mental-load.md) – How parental anxiety and partner stress impacts children and relationships.
+- [nutritionist-guidance.md](references/nutritionist-guidance.md) – How to talk to your PCP, RD, or psychiatrist.
+
 ## 💸 Permission to Repair: 1 Human = \$89 for 90 Days
 
 Our mission is radical accessibility:
