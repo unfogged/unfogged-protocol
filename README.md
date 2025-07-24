@@ -125,11 +125,11 @@ To reset 1 human’s nervous system using the **Unfogged Gummy Protocol**:
 
 | Supplement                                 | Approx Cost (90 Days) |
 | ------------------------------------------ | --------------------- |
-| Centrum MultiGummies + Omega-3             | \$20                  |
-| MaryRuth CoQ10 Gummies (100mg)             | \$24                  |
-| Goli Ashwagandha Gummies                   | \$18                  |
-| duwhot L-Theanine Gummies                  | \$12                  |
-| CALM Sleep Gummies (Magnesium + Melatonin) | \$15                  |
+| [Centrum MultiGummies + Omega-3](https://www.amazon.com/dp/B0D83F2TB5?tag=unfogged0f-20)             | \$20                  |
+| [MaryRuth CoQ10 Gummies (100mg)](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)             | \$24                  |
+| [Goli Ashwagandha Gummies](https://www.amazon.com/dp/B0B8QGMLBS?tag=unfogged0f-20)                   | \$18                  |
+| [duwhot L-Theanine Gummies](https://www.amazon.com/dp/B078NFVCJ7?tag=unfogged0f-20)                  | \$12                  |
+| [CALM Sleep Gummies (Magnesium + Melatonin)](https://www.amazon.com/dp/B085HK5LY2?tag=unfogged0f-20) | \$15                  |
 | **Total (1 person, 90 days)**              | **≈ \$89 USD**        |
 
 This stack rebuilds your:
