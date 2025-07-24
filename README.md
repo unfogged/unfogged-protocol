@@ -142,33 +142,35 @@ One human. One stack. One shot at clarity.
 
 ## 📦 Structure
 
-```
 unfogged-stack/
-├── README.md
-├── stacks/
-│   ├── anxiety.md
-│   ├── mania.md
-│   ├── adhd.md
-│   ├── depression.md
-│   ├── post-alcohol.md
-│   └── universal-reset.md
-├── protocols/
-│   ├── 90-day-reset.md
-│   ├── 7-day-binge-recovery.md
-│   └── maintenance.md
-├── sourcing/
-│   ├── supplements.csv
-│   ├── brands-vs-cost-analysis.md
-│   └── how-to-make-your-own.md
-├── nonprofit-model/
-│   ├── mission.md
-│   ├── open-license.md
-│   └── manufacturing-costs.md
+### 📂 Folder Structure
+
+- [stacks/](stacks/)
+  - [anxiety.md](stacks/anxiety.md)
+  - [mania.md](stacks/mania.md)
+  - [adhd.md](stacks/adhd.md)
+  - [depression.md](stacks/depression.md)
+  - [post-alcohol.md](stacks/post-alcohol.md)
+  - [universal-reset.md](stacks/universal-reset.md)
+- [protocols/](protocols/)
+  - [90-day-reset.md](protocols/90-day-reset.md)
+  - [7-day-binge-recovery.md](protocols/7-day-binge-recovery.md)
+  - [maintenance.md](protocols/maintenance.md)
+- [sourcing/](sourcing/)
+  - [supplements.csv](sourcing/supplements.csv)
+  - [brands-vs-cost-analysis.md](sourcing/brands-vs-cost-analysis.md)
+  - [how-to-make-your-own.md](sourcing/how-to-make-your-own.md)
+- [nonprofit-model/](nonprofit-model/)
+  - [mission.md](nonprofit-model/mission.md)
+  - [open-license.md](nonprofit-model/open-license.md)
+  - [manufacturing-costs.md](nonprofit-model/manufacturing-costs.md)
+
+
+
 └── media/
     ├── logo.svg
     ├── infographic.png
     └── printable-daily-log.pdf
-```
 
 ---
 
@@ -289,3 +291,9 @@ This is a protocol, not medical advice. We offer open information, not treatment
 > Because clarity shouldn't be patented.
 
 —The Unfogged Team
+
+
+📬 Official Mailing Address:
+**Unfogged**
+PO Box 80015
+Rochester, MI 48308
