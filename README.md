@@ -346,3 +346,7 @@ PO Box 80015
 Rochester, MI 48308
 
 > 📌 **Legal Disclosure**: This project is intended for adults. No content or links (including affiliate links) are targeted at users under 13 years old.
+
+> Unfogged is a public-welfare project with trademark intent. Name and materials pending formal 501(c)(3) registration and open-license documentation.
+
+
