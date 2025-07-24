@@ -125,12 +125,12 @@ To reset 1 human’s nervous system using the **Unfogged Gummy Protocol**:
 
 | Supplement                                 | Approx Cost (90 Days) | Coverage Details                            |
 | ------------------------------------------ | --------------------- | ------------------------------------------- |
-| [Centrum MultiGummies + Omega-3](https://www.amazon.com/dp/B0D83F2TB5?tag=unfogged0f-20)             | $20                  | 1 gummy/day × 2 gummies = 180 gummies (2 bottles of 90 ct) |
-| [MaryRuth CoQ10 Gummies (100mg)](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)             | $24                  | 1 gummy/day = 90 gummies (1 bottle of 90 ct)               |
-| [Goli Ashwagandha Gummies](https://www.amazon.com/dp/B0B8QGMLBS?tag=unfogged0f-20)                   | $18                  | 2 gummies/day = 180 gummies (2 bottles of 60 ct)           |
-| [duwhot L-Theanine Gummies](https://www.amazon.com/dp/B078NFVCJ7?tag=unfogged0f-20)                  | $12                  | 1 gummy/day = 90 gummies (1 bottle of 100 ct)              |
-| [CALM Sleep Gummies (Magnesium + Melatonin)](https://www.amazon.com/dp/B085HK5LY2?tag=unfogged0f-20) | $15                  | 2 gummies/day = 180 gummies (2 bottles of 90 ct)           |
-| **Total (1 person, 90 days)**              | **≈ $89 USD**        |                                               |
+| [Centrum MultiGummies + Omega-3](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)             | $30                  | 1 gummy/day × 2 gummies = 180 gummies (2 bottles of 110 ct) |
+| [MaryRuth CoQ10 Gummies (100mg)](https://www.amazon.com/dp/B078NFVCJ7?tag=unfogged0f-20)             | $44                  | 1 gummy/day = 90 gummies (1 bottle of 90 ct)               |
+| [Goli Ashwagandha Gummies](https://www.amazon.com/dp/B0B8QGMLBS?tag=unfogged0f-20)                   | $60                  | 2 gummies/day = 180 gummies (3 bottles of 60 ct)           |
+| [duwhot L-Theanine Gummies (as needed in afternoon)](https://www.amazon.com/dp/B0D83F2TB5?tag=unfogged0f-20)                  | $19                  | 1 gummy/day (1 bottle of 60 ct)              |
+| [CALM Sleep Gummies (Magnesium + Melatonin)](https://www.amazon.com/dp/B085HK5LY2?tag=unfogged0f-20) | $50                  | 2 gummies/day = 180 gummies (2 bottles of 90 ct)           |
+| **Total (1 person, 90 days)**              | **≈ $184-203 Retail USD or about $60 dollars a month**        |                                               |
 
 
 This stack rebuilds your:
@@ -221,16 +221,16 @@ unfogged-stack/
   - [printable-daily-log.md](media/printable-daily-log.md)
 
 
----
-
+--- 
+ 
 ## 💊 Key Supplements in the Core Stack
 | Supplement                    | Purpose                                                        |
 | ----------------------------- | -------------------------------------------------------------- |
-| [**B-Complex + Biotin/Folate**](https://www.amazon.com/dp/B078NFVCJ7?tag=unfogged0f-20) | Neurotransmitter fuel, energy, methylation                     |
-| [**CoQ10**](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)                     | Mitochondrial recovery, mood clarity                           |
-| [**Omega-3**](https://www.amazon.com/dp/B0D83F2TB5?tag=unfogged0f-20)                   | Brain repair, inflammation modulation                          |
+| [**B-Complex + Biotin/Folate**](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20) | Neurotransmitter fuel, energy, methylation                     |
+| [**CoQ10**](https://www.amazon.com/dp/B078NFVCJ7?tag=unfogged0f-20)                     | Mitochondrial recovery, mood clarity                           |
+| [**Omega-3**](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)                   | Brain repair, inflammation modulation                          |
 | [**Ashwagandha**](https://www.amazon.com/dp/B0B8QGMLBS?tag=unfogged0f-20)               | Cortisol and HPA regulation (critical for 5PM alcohol impulse) |
-| [**L-Theanine**](https://www.amazon.com/dp/B08YS3DW5G?tag=unfogged0f-20)                | Glutamate modulation, calm without sedation                    |
+| [**L-Theanine**](https://www.amazon.com/dp/B085HK5LY2?tag=unfogged0f-20)                | Glutamate modulation, calm without sedation                    |
 | [**Magnesium + Melatonin**](https://www.amazon.com/dp/B085HK5LY2?tag=unfogged0f-20)     | Sleep quality, GABA support                                    |
 
 
