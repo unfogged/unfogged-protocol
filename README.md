@@ -31,7 +31,7 @@ It’s about reclaiming baseline clarity—whatever broke it.
 You don’t have to be sober forever. You don’t even have to drink to need this.
 You just need to want your brain back.
 
-### ✝️ Break the Cycle. $90. 90 Days.
+### ✝️ Break humanities true cycle for $60/month for 3 months get to true sobriety
 
 Because your kids deserve a whole parent.  
 Because you remember the slammed doors, the yelling, the divorce, the silence, and the pain after.  
