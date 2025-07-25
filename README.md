@@ -82,6 +82,8 @@ Unfogged™ is an open-source wellness initiative operated by **Cloud Blaze**, w
 
 We've collected a curated body of medical literature, expert-backed articles, and clinical guidance that supports the foundation of the Unfogged protocol.
 
+🌎 [unfogged.org repo code](https://github.com/Cloud-Blaze/soul-spark-protocol/tree/main)
+
 See full breakdown here:
 
 📁 [references/](references/)
