@@ -212,6 +212,10 @@ unfogged-stack/
   - [7-day-binge-recovery.md](protocols/7-day-binge-recovery.md)
   - [maintenance.md](protocols/maintenance.md)
   - [unfogged-kids.md](protocols/unfogged-kids.md)
+  - [night-repair-addendum.md](protocols/night-repair-addendum.md)
+
+📁 [protocols/](protocols/) — All protocol documents, including addenda and special editions
+
 - [sourcing/](sourcing/)
   - [supplements.csv](sourcing/supplements.csv)
   - [brands-vs-cost-analysis.md](sourcing/brands-vs-cost-analysis.md)
@@ -330,7 +334,7 @@ Use this protocol to heal, to build, and to share—but never to exploit.
 
 ---
 
-## 🧒 ** UNFOGGED KIDS Edition Protocol**
+## 🧒 **UNFOGGED KIDS Edition Protocol**
 
 > ⚠️ **If you are a parent, educator, or pediatrician, please read:**
 >
